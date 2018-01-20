@@ -1,2 +1,3 @@
 # OCR_manuscritos
 Desarrollo de OCR para ediciones antiguas y manuscritos de textos clásicos
+esto es otras cosa, me estoy yendo por las ramas...
